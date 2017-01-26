@@ -3,10 +3,6 @@ import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.PrintStream;
 import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.PriorityQueue;
-
-import com.jaunt.JNode;
 
 
 public class Businesses {
